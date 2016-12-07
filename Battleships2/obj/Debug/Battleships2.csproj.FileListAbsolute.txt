@@ -1,0 +1,6 @@
+c:\users\dan\documents\visual studio 2015\Projects\Battleships2\Battleships2\bin\Debug\Battleships2.exe.config
+c:\users\dan\documents\visual studio 2015\Projects\Battleships2\Battleships2\obj\Debug\Battleships2.csprojResolveAssemblyReference.cache
+c:\users\dan\documents\visual studio 2015\Projects\Battleships2\Battleships2\bin\Debug\Battleships2.exe
+c:\users\dan\documents\visual studio 2015\Projects\Battleships2\Battleships2\bin\Debug\Battleships2.pdb
+c:\users\dan\documents\visual studio 2015\Projects\Battleships2\Battleships2\obj\Debug\Battleships2.exe
+c:\users\dan\documents\visual studio 2015\Projects\Battleships2\Battleships2\obj\Debug\Battleships2.pdb
